@@ -90,6 +90,10 @@ Having a cat around can help with the writing process.
 
 Check out this [ninja cat](https://www.youtube.com/watch?v=fzzjgBAaWZw) for writing inspiration!
 
+----
+
 > **Note:** You don't have to own a cat to love cats.
+
+----
 
 [Return to the top](#technical-writing-tips-and-tricks)
