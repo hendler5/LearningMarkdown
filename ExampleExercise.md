@@ -68,7 +68,7 @@ function test() {
 
 ![Having a cat around can help with the writing process.](https://github.com/hendler5/LearningMarkdown/blob/master/orangeTabby.jpg)
 
-[Check out this ninja cat for writing inspiration!](https://www.youtube.com/watch?v=fzzjgBAaWZw)
+Check out this [ninja cat](https://www.youtube.com/watch?v=fzzjgBAaWZw) for writing inspiration!
 
 > **Note:** You don't have to own a cat to love cats.
 
