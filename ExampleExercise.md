@@ -27,6 +27,7 @@ Answering the following questions will guide you to producing effective document
   * Video
   
 * Where will the information reside?
+
   * Internal or external
   * Secured or publicly accessible
 
@@ -65,7 +66,7 @@ function test() {
 
 ### Additonal Tips
 
-![Having a cat around can help with the writing process.](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.pafriends.org%2Fwp-content%2Fuploads%2F2013%2F11%2FWALL-E-in-cat-tree.jpg&imgrefurl=http%3A%2F%2Fwww.pafriends.org%2Fif-12%2F&docid=5O6VVafKijddRM&tbnid=ruNNlZtipEndXM%3A&vet=10ahUKEwjPos2Q6YjaAhXnna0KHQhUAkcQMwjUASguMC4..i&w=769&h=663&bih=734&biw=1536&q=orange%20tabby&ved=0ahUKEwjPos2Q6YjaAhXnna0KHQhUAkcQMwjUASguMC4&iact=mrc&uact=8)
+![Having a cat around can help with the writing process.](https://github.com/hendler5/LearningMarkdown/orangeTabby.jpg)
 
 [Check out this ninja cat for writing inspiration!](https://www.youtube.com/watch?v=fzzjgBAaWZw)
 
