@@ -1,5 +1,6 @@
 # Technical Writing Tips and Tricks
 
+<a name="top"/>
 ## Getting Started
 
 When starting a technical writing project, you need to answer a few basic questions up front, write an outline, and then fill in the details. The following sections further explore each of these topics.
