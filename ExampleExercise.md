@@ -1,5 +1,23 @@
 # Technical Writing Tips and Tricks
 
+## Table of Contents
+
+[Getting Started](#getting-started)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Answering the Big Questions First](#answering-the-big-questions-first)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Creating an Outline](#creating-an-outline)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Filling in the Details](#filling-in-the-details)
+
+[Writing Tips](#writing-tips)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Following Standards](#following-standards)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Documenting Code](#documenting-code)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Additional Tips](#additional-tips)  
+
 ## Getting Started
 
 When starting a technical writing project, you need to answer a few basic questions up front, write an outline, and then fill in the details. The following sections further explore each of these topics.
@@ -41,7 +59,7 @@ After you have created an outline, have the product owner review it to ensure yo
 
 After the outline is approved, the writing process begins. A big part of the writing process is researching what you plan to write about. Having a solid understanding of the topic is crucial for producing effective documentation. Often, the research takes far longer than the actual writing does. 
 
-[Return to the top](#top)
+[Return to the top](#technical-writing-tips-and-tricks)
 
 ## Writing Tips
 
@@ -64,7 +82,7 @@ function test() {
 }
 ```
 
-### Additonal Tips
+### Additional Tips
 
 ![Having a cat around can help with the writing process.](https://github.com/hendler5/LearningMarkdown/blob/master/orangeTabby.jpg)
 
