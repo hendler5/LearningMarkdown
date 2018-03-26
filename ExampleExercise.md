@@ -4,7 +4,7 @@
 
 [Getting Started](#getting-started)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Answering the Big Questions First](#answering-the-big-questions-first)
+&nbsp;&nbsp;&nbsp;&nbsp;[Answering the Basic Questions](#answering-the-basic-questions)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Creating an Outline](#creating-an-outline)
 
@@ -20,9 +20,9 @@
 
 ## Getting Started
 
-When starting a technical writing project, you need to answer a few basic questions up front, write an outline, and then fill in the details. The following sections further explore each of these topics.
+When starting a technical writing project, the first thing you need to do is answer a few basic questions, and then write an outline. Afterwards, you fill in the details of the outline and begin the writing process. The following sections further explore each of these topics.
 
-### Answering the Big Questions First
+### Answering the Basic Questions
 
 Answering the following questions will guide you to producing effective documentation:
 
