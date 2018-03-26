@@ -1,6 +1,5 @@
 # Technical Writing Tips and Tricks
 
-<a name="top"/>
 ## Getting Started
 
 When starting a technical writing project, you need to answer a few basic questions up front, write an outline, and then fill in the details. The following sections further explore each of these topics.
@@ -67,7 +66,7 @@ function test() {
 
 ### Additonal Tips
 
-![Having a cat around can help with the writing process.](https://github.com/hendler5/LearningMarkdown/orangeTabby.jpg)
+![Having a cat around can help with the writing process.](https://github.com/hendler5/LearningMarkdown/blob/master/orangeTabby.jpg)
 
 [Check out this ninja cat for writing inspiration!](https://www.youtube.com/watch?v=fzzjgBAaWZw)
 
