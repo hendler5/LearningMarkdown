@@ -35,7 +35,7 @@ Answering the following questions will guide you to producing effective document
 * What type of information needs to be conveyed?
 
   * Introductory or detailed
-  * Conceptual or Task-based / instructional
+  * Conceptual or task-based / instructional
   * Technical or non-technical
   
 * What medium best suits the type of information?
@@ -83,6 +83,8 @@ function test() {
 ```
 
 ### Additional Tips
+
+Having a cat around can help with the writing process. 
 
 ![Having a cat around can help with the writing process.](https://github.com/hendler5/LearningMarkdown/blob/master/orangeTabby.jpg)
 
