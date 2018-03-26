@@ -72,4 +72,4 @@ Check out this [ninja cat](https://www.youtube.com/watch?v=fzzjgBAaWZw) for writ
 
 > **Note:** You don't have to own a cat to love cats.
 
-[Return to the top](#top)
+[Return to the top](#technical-writing-tips-and-tricks)
